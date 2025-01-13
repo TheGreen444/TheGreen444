@@ -7,7 +7,7 @@ Hello! I'm **TheGreen**, I am Passionate about programming and penetation testin
 ---
 
 ### 🛠️ Programming Knowledge:
-- **Did many projects in:** ![HTML](https://img.shields.io/badge/-HTML-E34F26?logo=html5&logoColor=white) ![CSS](https://img.shields.io/badge/-CSS-1572B6?logo=css3&logoColor=white) ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black) ![PHP](https://img.shields.io/badge/-PHP-777BB4?logo=php&logoColor=white)
+-  **Did many projects in:** ![HTML](https://img.shields.io/badge/-HTML-E34F26?logo=html5&logoColor=white) ![CSS](https://img.shields.io/badge/-CSS-1572B6?logo=css3&logoColor=white) ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black) ![PHP](https://img.shields.io/badge/-PHP-777BB4?logo=php&logoColor=white)
 - **Limited knowledge on:** ![C](https://img.shields.io/badge/-C-A8B9CC?logo=c&logoColor=white) ![Bash](https://img.shields.io/badge/-Bash-4EAA25?logo=gnu-bash&logoColor=white)
 - **Never coded language:** ![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white) & rest which is not here...
 
