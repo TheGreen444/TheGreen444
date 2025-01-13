@@ -1,4 +1,4 @@
-# TheGreen 
+                                                                                # TheGreen 
 
 ## 🚀 Passionate Programmer & Penetration Tester
 
@@ -8,8 +8,8 @@ Hello! I'm **TheGreen**, I am Passionate about programming and penetation testin
 
 ### 🛠️ Programming Arsenal
 - **Did many projects in:** ![HTML](https://img.shields.io/badge/-HTML-E34F26?logo=html5&logoColor=white) ![CSS](https://img.shields.io/badge/-CSS-1572B6?logo=css3&logoColor=white) ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black) ![PHP](https://img.shields.io/badge/-PHP-777BB4?logo=php&logoColor=white)
-- **Little/limited knowledge on:** ![C](https://img.shields.io/badge/-C-A8B9CC?logo=c&logoColor=white) ![C++](https://img.shields.io/badge/-C++-00599C?logo=c%2B%2B&logoColor=white)
-- **Never touched language:** ![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white)
+- **Limited knowledge on:** ![C](https://img.shields.io/badge/-C-A8B9CC?logo=c&logoColor=white) ![C++](https://img.shields.io/badge/-C++-00599C?logo=c%2B%2B&logoColor=white)
+- **Never touched this:  ** ![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white)
 
 ---
 
