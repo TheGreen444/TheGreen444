@@ -1,4 +1,4 @@
-# TheGreen <marquee>Welcome</marquee>
+# TheGreen 
 
 ## 🚀 Passionate Programmer & Penetration Tester
 
