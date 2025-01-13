@@ -1,4 +1,4 @@
-# TheGreen <img src="x" onerror="alert('Welcomed by TheGreen');" />
+# TheGreen <marquee>Welcome</marquee>
 
 ## 🚀 Passionate Programmer & Penetration Tester
 
