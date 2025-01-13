@@ -1,16 +1,28 @@
-## Hi there 👋
+# TheGreen 
 
-<!--
-**TheGreen444/TheGreen444** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🚀 Passionate Programmer & Penetration Tester
 
-Here are some ideas to get you started:
+Hello! I'm **TheGreen**, a hacker on a mission to continuously learn and grow. I thrive on programming challenges, penetration testing, and creative problem-solving. Whether it’s coding new applications, debugging, or collaborating on projects, I bring energy, creativity, and precision to every task.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### 🛠️ Programming Arsenal
+- **Web Dev:** ![HTML](https://img.shields.io/badge/-HTML-E34F26?logo=html5&logoColor=white) ![CSS](https://img.shields.io/badge/-CSS-1572B6?logo=css3&logoColor=white) ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black)
+- **Backend:** ![PHP](https://img.shields.io/badge/-PHP-777BB4?logo=php&logoColor=white) ![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white)
+- **General:** ![C](https://img.shields.io/badge/-C-A8B9CC?logo=c&logoColor=white)
+
+---
+
+### 🌱 A Hacker Like The Green Hat
+I’m constantly learning and exploring new horizons. Just like the green hat hacker archetype, I love discovering and sharing knowledge responsibly while improving skills in coding and security.
+
+---
+
+### 🌐 Connect with Me:
+- ![Instagram](https://img.shields.io/badge/-Instagram-E4405F?logo=instagram&logoColor=white)
+- ![Discord](https://img.shields.io/badge/-Discord-5865F2?logo=discord&logoColor=white)
+- And more... Feel free to reach out and collaborate!
+
+---
+
+#### ✨ Let’s Build Something Amazing Together!
