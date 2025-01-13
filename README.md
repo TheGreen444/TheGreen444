@@ -14,6 +14,7 @@ Hello! I'm **TheGreen**, I am Passionate about programming and penetation testin
 ### 🔍 Knowledge in penetration testing:
 - **Websites & web applications** | **Bug Bounty**
 - **Systems & servers** & **Cracking as well**
+- 
 // i am focusing on these as a continuous learner and just a beginner or little more than that maybe...
 
 ---
