@@ -2,19 +2,13 @@
 
 ## 🚀 Passionate Programmer & Penetration Tester
 
-Hello! I'm **TheGreen**, a hacker on a mission to continuously learn and grow. I thrive on programming challenges, penetration testing, and creative problem-solving. Whether it’s coding new applications, debugging, or collaborating on projects, I bring energy, creativity, and precision to every task.
+Hello! I'm **TheGreen**, I am Passionate about programming and penetation testing, is always eager to contribute to coding and other projects, bringing creativity and precision to every task. Feel free to ask to start any type of project!
 
 ---
 
 ### 🛠️ Programming Arsenal
-- **Web Dev:** ![HTML](https://img.shields.io/badge/-HTML-E34F26?logo=html5&logoColor=white) ![CSS](https://img.shields.io/badge/-CSS-1572B6?logo=css3&logoColor=white) ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black)
-- **Backend:** ![PHP](https://img.shields.io/badge/-PHP-777BB4?logo=php&logoColor=white) ![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white)
-- **General:** ![C](https://img.shields.io/badge/-C-A8B9CC?logo=c&logoColor=white)
-
----
-
-### 🌱 A Hacker Like The Green Hat
-I’m constantly learning and exploring new horizons. Just like the green hat hacker archetype, I love discovering and sharing knowledge responsibly while improving skills in coding and security.
+- **Did many projects in:** ![HTML](https://img.shields.io/badge/-HTML-E34F26?logo=html5&logoColor=white) ![CSS](https://img.shields.io/badge/-CSS-1572B6?logo=css3&logoColor=white) ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black) ![PHP](https://img.shields.io/badge/-PHP-777BB4?logo=php&logoColor=white)
+- **Incomplete but little knowledge on:** ![C](https://img.shields.io/badge/-C-A8B9CC?logo=c&logoColor=white) ![C++](https://img.shields.io/badge/-C++-00599C?logo=c%2B%2B&logoColor=white) ![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white)
 
 ---
 
