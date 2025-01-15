@@ -21,7 +21,7 @@ Hello! I'm **TheGreen**, I am Passionate about programming and penetation testin
 
 ### 🌐 Connect with Me:
 - [![Instagram](https://img.shields.io/badge/-Instagram-E4405F?logo=instagram&logoColor=white)](https://www.instagram.com/thegreen444s/)
-- [![Discord](https://img.shields.io/badge/-Discord-5865F2?logo=discord&logoColor=white)](https://discord.gg/eh3cU8QAkg)
+- [![Discord](https://img.shields.io/badge/-Discord-5865F2?logo=discord&logoColor=white)]
 - Feel free to reach out and collaborate!
 
 ---
